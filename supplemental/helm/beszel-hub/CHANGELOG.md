@@ -5,7 +5,7 @@
 
 ### Bug Fixes
 
-* **helm:** update app version to 0.18.7 ([418e3f0](https://github.com/henrygd/beszel/commit/418e3f0892747a62a3b743b9693c24406439388c))
+* **helm:** update app version to 1.0.0 ([418e3f0](https://github.com/henrygd/beszel/commit/418e3f0892747a62a3b743b9693c24406439388c))
 
 ## [0.1.3](https://github.com/henrygd/beszel/compare/beszel-hub-v0.1.2...beszel-hub-v0.1.3) (2026-08-17)
 

@@ -1,4 +1,4 @@
-## 0.18.7
+## 1.0.0
 
 - Add more disk I/O metrics (utilization, read/write time, await, queue depth) (#1866)
 
